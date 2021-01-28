@@ -1,4 +1,4 @@
 ﻿the quick brown fox jump over a lazy dog
 vim is a very useful tool for coder
 i am excited on knowing that there is a win32-version of vim
-this is newest version,  when the remote repository is changed the localtmj repository follows and the local can be pushed into remote.
+this is real-newest version,  when the remote repository is changed the localtmj repository follows and the local can be pushed into remote.
